@@ -6,3 +6,9 @@ a:hover {
   color: #cc5200;        /* 悬停颜色 */
 }
 
+/* 强制隐藏主题切换按钮（双保险） */
+#theme-toggle,
+.theme-toggle,
+.dark-light-toggle {
+  display: none !important;
+}
