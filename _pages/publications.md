@@ -82,13 +82,13 @@ redirect_from:
 
 33. **[Integral bounds on curvature and Gromov-Hausdorff limits](https://academic.oup.com/jtopol/article-abstract/7/2/543/919075)**, Chen, X.-X.; Donaldson, S. K., J. Topol. 7 (2014), no. 2, 543–556.
 
-34. **[Kähler-Einstein metrics and stability, Chen, Xiuxiong; Donaldson, Simon; Sun, Song, Int. Math. Res. Not. IMRN 2014, no. 8, 2119–2125.
+34. **[Kähler-Einstein metrics and stability](https://academic.oup.com/imrn/article-abstract/2014/8/2119/688917?utm_source=chatgpt.com&login=false)**, Chen, Xiuxiong; Donaldson, Simon; Sun, Song, Int. Math. Res. Not. IMRN 2014, no. 8, 2119–2125.
 
-35. **[Liouville energy on a topological two sphere, Chen, XiuXiong; Zhu, Meijun, Commun. Math. Stat. 1 (2013), no. 4, 369–385.
+35. **[Liouville energy on a topological two sphere](https://link.springer.com/article/10.1007/s40304-013-0020-8)**, Chen, XiuXiong; Zhu, Meijun, Commun. Math. Stat. 1 (2013), no. 4, 369–385.
 
-36. **[On the conditions to extend Ricci flow(III), Chen, Xiuxiong; Wang, Bing, Int. Math. Res. Not. IMRN 2013, no. 10, 2349–2367.
+36. **[On the conditions to extend Ricci flow(III)](https://ieeexplore.ieee.org/abstract/document/8177992)**, Chen, Xiuxiong; Wang, Bing, Int. Math. Res. Not. IMRN 2013, no. 10, 2349–2367.
 
-37. **[Volume estimates for Kähler-Einstein metrics and rigidity of complex structures,Chen, X.-X.; Donaldson, S. K., J. Differential Geom. 93 (2013), no. 2, 191–201.
+37. **[Volume estimates for Kähler-Einstein metrics and rigidity of complex structures](https://projecteuclid.org/journals/journal-of-differential-geometry/volume-93/issue-2/Volume-estimates-for-K%c3%a4hler-Einstein-metrics-and-rigidity-of-complex/10.4310/jdg/1361800865.full)**,Chen, X.-X.; Donaldson, S. K., J. Differential Geom. 93 (2013), no. 2, 191–201.
 
 38. **[Volume estimates for Kähler-Einstein metrics: the three-dimensional case, Chen, X.-X.; Donaldson, S. K., J. Differential Geom. 93 (2013), no. 2, 175–189.
 
