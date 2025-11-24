@@ -11,15 +11,19 @@ redirect_from:
 
 - Work experience:
 ---
-   - 2018-present, Professor, **[School of Mathematical Sciences](https://math.ustc.edu.cn/main.htm)**, University of Science and Technology of China.
-   - 2012-2018, Assistant Professor, Associate Professor, **[Department of Mathematics](https://www.math.wisc.edu/)**, University of Wisconsin-Madison. 
-   - 2011-2012, Research Assistant Professor, **[Simons Center for Geometry and Physics](https://scgp.stonybrook.edu/)**, SUNY at Stony Brook.
-   - 2008-2011, Instructor, **[Department of Mathematics](https://www.math.princeton.edu/)**, Princeton University.
+   - 2022-present, Professor, University of Science and Technology of China.
+   - 2019-2022, Distinguished Professor, Stony Brook University, USA. 
+   - 2010-2019, Professor, Stony Brook University, USA.
+   - 2005-2010, Professor, University of Wisconsin–Madison, USA. 
+   - 2002-2005, Associate Professor, University of Wisconsin–Madison, USA.
+   - 1998-2002, Assistant Professor, Princeton University, USA.
+   - 1996-1998, Postdoctoral Researcher, Stanford University, USA.
+   - 1994-1996, Lecturer, McMaster University, Canada.
     
 - Education:
 ---
-   - 2003-2008, PhD student, **[Department of Mathematics](https://math.ustc.edu.cn/new/main.psp)**, University of Wisconsin-Madison.  
-   - 1998-2003, Undergraduate student, **[Special class for gifted young](https://sgy.ustc.edu.cn/)**, University of Science and Technology of China.  
+   - 1989-1994, PhD student, Department of Mathematics, University of Pennsylvania.
+   - 1987-1989, Master’s student, Graduate School (Beijing), University of Science and Technology of China  
+   - 1982-1987, Undergraduate student, Department of Mathematics, University of Science and Technology of China.  
 
-**[Personal CV](https://USTCwangbing.github.io/files/CV2024.1.pdf)**
 
