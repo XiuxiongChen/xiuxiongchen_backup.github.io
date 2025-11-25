@@ -24,7 +24,7 @@ redirect_from:
   
 4. **[The  L∞  estimates for parabolic complex Monge-Ampère and Hessian equations](https://www.researchgate.net/publication/358259793_The_Linfty_estimates_for_parabolic_complex_Monge-Ampere_and_Hessian_equations)**, Chen, Xiuxiong; Cheng, Jingrui,Pure Appl. Math. Q. 19 (2023), no. 6, 2869–2913.
 
-5. **[Gravitational instantons with faster than quadratic curvature decay](https://www.researchgate.net/publication/357719169_Gravitational_instantons_with_faster_than_quadratic_curvature_decay_I)**. Chen, Gao; Chen, Xiuxiong, Acta Math. 227 (2021), no. 2, 263–307.
+5. **[Gravitational instantons with faster than quadratic curvature decay](https://projecteuclid.org/journals/acta-mathematica/volume-227/issue-2/Gravitational-instantons-with-faster-than-quadratic-curvature-decay-I/10.4310/ACTA.2021.v227.n2.a2.full?utm_source=chatgpt.com)**. Chen, Gao; Chen, Xiuxiong, Acta Math. 227 (2021), no. 2, 263–307.
 
 6. **[On the geometry of asymptotically flat manifolds](https://msp.org/gt/2021/25-5/p07.xhtml)**, Chen, Xiuxiong; Li, Yu,Geom. Topol. 25 (2021), no. 5, 2469–2572.
 
