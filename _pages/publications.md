@@ -20,7 +20,7 @@ redirect_from:
 
 2. **[The legacy of Eugenio Calabi (1923–2023)](https://www.researchgate.net/publication/386312047_The_Legacy_of_Eugenio_Calabi_1923-2023?utm_source)**,Chen, Xiuxiong, Notices Amer. Math. Soc. 71 (2024), no. 11, 1502–1519.
 
-3. **[Some topics in the Ricci flow](https://www.researchgate.net/publication/385344743_Some_Topics_in_the_Ricci_Flow)**, Chen, Xiuxiong; Wang, Bing,J. Math. Study 57 (2024), no. 3, 379–397.
+3. **[Some topics in the Ricci flow](https://www.ivysci.com/en/articles/7646913__Some_Topics_in_the_Ricci_Flow?utm_source=chatgpt.com)**, Chen, Xiuxiong; Wang, Bing,J. Math. Study 57 (2024), no. 3, 379–397.
   
 4. **[The  L∞  estimates for parabolic complex Monge-Ampère and Hessian equations](https://www.researchgate.net/publication/358259793_The_Linfty_estimates_for_parabolic_complex_Monge-Ampere_and_Hessian_equations)**, Chen, Xiuxiong; Cheng, Jingrui,Pure Appl. Math. Q. 19 (2023), no. 6, 2869–2913.
 
