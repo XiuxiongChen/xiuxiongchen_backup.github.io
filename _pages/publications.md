@@ -20,13 +20,13 @@ redirect_from:
 
 2. **[The legacy of Eugenio Calabi (1923–2023)](https://www.ams.org/journals/notices/202411/rnoti-p1502.pdf)**,Chen, Xiuxiong, Notices Amer. Math. Soc. 71 (2024), no. 11, 1502–1519.
 
-3. **[Some topics in the Ricci flow](https://www.ivysci.com/en/articles/7646913__Some_Topics_in_the_Ricci_Flow?utm_source=chatgpt.com)**, Chen, Xiuxiong; Wang, Bing,J. Math. Study 57 (2024), no. 3, 379–397.
+3. **[Some topics in the Ricci flow](https://www.ivysci.com/en/articles/7646913__Some_Topics_in_the_Ricci_Flow?utm_source=chatgpt.com)**, Chen, Xiuxiong; Wang, Bing, J. Math. Study 57 (2024), no. 3, 379–397.
   
 4. **[The  L∞  estimates for parabolic complex Monge-Ampère and Hessian equations](https://www.researchgate.net/publication/358259793_The_Linfty_estimates_for_parabolic_complex_Monge-Ampere_and_Hessian_equations)**, Chen, Xiuxiong; Cheng, Jingrui, Pure Appl. Math. Q. 19 (2023), no. 6, 2869–2913.
 
-5. **[Gravitational instantons with faster than quadratic curvature decay](https://projecteuclid.org/journals/acta-mathematica/volume-227/issue-2/Gravitational-instantons-with-faster-than-quadratic-curvature-decay-I/10.4310/ACTA.2021.v227.n2.a2.full?utm_source=chatgpt.com)**. Chen, Gao; Chen, Xiuxiong, Acta Math. 227 (2021), no. 2, 263–307.
+5. **[Gravitational instantons with faster than quadratic curvature decay](https://projecteuclid.org/journals/acta-mathematica/volume-227/issue-2/Gravitational-instantons-with-faster-than-quadratic-curvature-decay-I/10.4310/ACTA.2021.v227.n2.a2.full?utm_source=chatgpt.com)**, Chen, Gao; Chen, Xiuxiong, Acta Math. 227 (2021), no. 2, 263–307.
 
-6. **[On the geometry of asymptotically flat manifolds](https://msp.org/gt/2021/25-5/p07.xhtml)**, Chen, Xiuxiong; Li, Yu,Geom. Topol. 25 (2021), no. 5, 2469–2572.
+6. **[On the geometry of asymptotically flat manifolds](https://msp.org/gt/2021/25-5/p07.xhtml)**, Chen, Xiuxiong; Li, Yu, Geom. Topol. 25 (2021), no. 5, 2469–2572.
 
 7. **[On the constant scalar curvature Kähler metrics (II)—Existence results](https://www.ams.org/journals/jams/2021-34-04/S0894-0347-2021-00966-9/)**, Chen, Xiuxiong; Cheng, Jingrui, J. Amer. Math. Soc. 34 (2021), no. 4, 937–1009.
 
