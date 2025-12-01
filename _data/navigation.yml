@@ -25,6 +25,9 @@ main:
     
   - title: "CV"
     url: /cv/
+
+  - title: "Calabi Series"
+    url: /Calabi Series/
     
  # - title: "Further Information"
  #   url: /further information/
