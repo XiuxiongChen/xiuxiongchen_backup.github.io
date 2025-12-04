@@ -12,6 +12,8 @@ redirect_from:
 
 ---
 
+<div id="pub-list">
+
 {% include base_path %}
 - Journal papers:
 --- 
@@ -185,3 +187,37 @@ redirect_from:
 84. **[Deformation of surfaces preserving principal curvatures](https://link.springer.com/chapter/10.1007/BFb0087527)**, Chen, Xiu Xiong; Peng, Chia-Kuei, Lecture Notes in Math., 1369, Springer-Verlag, Berlin, 1989, 63–70.
 
 
+
+</div>
+
+<button id="show-all-pubs">点击查看全部</button>
+
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+  var container = document.getElementById('pub-list');
+  if (!container) return;
+
+  var ol = container.querySelector('ol');
+  if (!ol) return;
+
+  var items = ol.querySelectorAll('li');
+  var maxVisible = 2;  // 仅显示前两篇重要论文
+
+  if (items.length <= maxVisible) {
+    document.getElementById('show-all-pubs').style.display = 'none';
+    return;
+  }
+
+  // 隐藏第 3 篇及之后的论文
+  for (var i = maxVisible; i < items.length; i++) {
+    items[i].style.display = 'none';
+  }
+
+  document.getElementById('show-all-pubs').addEventListener('click', function () {
+    for (var i = maxVisible; i < items.length; i++) {
+      items[i].style.display = '';
+    }
+    this.style.display = 'none';
+  });
+});
+</script>
