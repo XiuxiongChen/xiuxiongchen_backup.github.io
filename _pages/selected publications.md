@@ -28,10 +28,10 @@ redirect_from:
   <summary>Load More Publications</summary>
   <div markdown="1">
 
-- Space of Kaehler Potentials:
+- Space of Kähler Potentials:
 --- 
 
-- Kaehler-Einstein metrics:
+- Kähler-Einstein metrics:
 --- 
 
 - Constant Scalar Curvature Metrics:
