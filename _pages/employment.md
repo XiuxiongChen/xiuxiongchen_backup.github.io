@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-- 2022-present, Professor, University of Science and Technology of China.
+- 2022-present, Distinguished Chair Professor, University of Science and Technology of China.
 - 2019-2022, Distinguished Professor, Stony Brook University, USA. 
 - 2010-2019, Professor, Stony Brook University, USA.
 - 2005-2010, Professor, University of Wisconsin–Madison, USA. 
