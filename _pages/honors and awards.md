@@ -16,5 +16,5 @@ redirect_from:
 - **[Simons Investigator, 2019](https://www.simonsfoundation.org/mathematics-physical-sciences/simons-investigators/simons-investigators-awardees/)**
 - **[Outstanding Research Presidential Award, University of Science and Technology of China, 2020](https://news.ustc.edu.cn/info/1055/73961.htm)**
 - **[Selected as one of the Top 10 Domestic Science and Technology News in China (2020) for solving two core conjectures in differential geometry](https://news.ustc.edu.cn/info/1032/73686.htm)**
-- **[Selected as one of the Top 10 Scientific and Technological Progress News in China (2020) for solving two long-standing core conjectures in differential geometry(https://english.cas.cn/newsroom/cas_media/202101/t20210122_262120_1.shtml)**
+- **[Selected as one of the Top 10 Scientific and Technological Progress News in China (2020) for solving two long-standing core conjectures in differential geometry](https://english.cas.cn/newsroom/cas_media/202101/t20210122_262120_1.shtml)**
 - **[Achievement on resolving two core conjectures in Kähler geometry selected as one of China’s Top 10 Domestic Science and Technology News (2021)](https://news.ustc.edu.cn/info/1001/78041.htm)**
