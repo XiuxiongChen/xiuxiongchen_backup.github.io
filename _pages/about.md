@@ -1,4 +1,4 @@
-alt_url: /zh/about/
+
 
 ---
 permalink: /
