@@ -4,7 +4,7 @@ permalink: /zh/
 title: "首页"
 lang: zh
 ---
-[EN](/)
+
 
 
 - [关于我](/zh/about/)
