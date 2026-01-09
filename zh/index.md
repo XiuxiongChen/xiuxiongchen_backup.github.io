@@ -1,5 +1,6 @@
 ---
-layout: splash
+layout: single
+author_profile: true
 permalink: /zh/
 title: "首页"
 lang: zh
