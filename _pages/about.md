@@ -1,3 +1,5 @@
+alt_url: /zh/about/
+
 ---
 permalink: /
 title: "About me"
