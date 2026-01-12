@@ -16,18 +16,9 @@ redirect_from:
 
 - ## Professor Xiuxiong Chen Awarded 2019 Oswald Veblen Prize
 
-  维布伦奖是几何和拓朴学领域的最高荣誉,每三年颁发一次。迄今为止，共有34人获此殊荣，其中包括5位菲尔兹奖获得者，1位阿贝尔奖得主，5位沃尔夫奖得主，3位邵逸夫奖获得者，2位数学突破奖获得者，2位美国数学会斯蒂尔终身成就奖得主。
+  Chen, Donaldson, and Sun announced a complete solution of the conjecture for Fano manifolds in International Mathematics Research Notices in 2014, and full proofs followed in Kähler-Einstein metrics on Fano manifolds. I: Approximation of metrics with cone singularities, Kähler-Einstein metrics on Fano manifolds. II: Limits with cone angle less than $2\pi$, and Kähler-Einstein metrics on Fano manifolds. III: Limits as cone angle approaches $2\pi$ and completion of the main proof, all published in 2015 in the Journal of the AMS.
 
-  此次维布伦奖旨在表彰陈-唐纳森-孙三人2015年在《美国数学会杂志》（Journal of American Mathematical Society）上所发表的三篇文章《法诺流形上的凯勒-爱因斯坦度量 I，II 和III 》。在这一系列文章里，他们完美地解决了微分几何中一个久而未决的猜想，即K-稳定的法诺流形上存在凯勒-爱因斯坦度量。这一猜想是近年来微分几何中最活跃的研究问题之一。陈秀雄、唐纳森和孙崧于2014年在《国际数学研究通知》（International Mathematics Research Notices）上宣布了此猜想的完整解决方案，前述3篇文章则是其详细的证明，堪称凯勒几何发展的里程碑。
-
-  一位提名者给予如此评价：“这绝对是丘成桐解决卡拉比猜想后的三十五年里凯勒几何中最重要的结果，甚或是自佩雷尔曼解决庞加莱猜想以来微分几何领域里最大的突破。这一成就已经产生了巨大的影响，其重要性会随着时间的推移而越发彰显。”
-  The 2019 Oswald Veblen Prize in Geometry will be awarded to Xiuxiong Chen, Simon Donaldson and Song Sun, for their three-part series, Kähler-Einstein metrics on Fano manifolds, I, II and III, published in 2015 in the Journal of the American Mathematical Society, in which they proved a long-standing conjecture in differential geometry. 
-
-In 1982 Shing-Tung Yau received the Fields Medal in part for his proof of the so-called Calabi Conjecture. He later conjectured that a solution in the case of Fano manifolds, i.e., those with positive first Chern class, would necessarily involve an algebro-geometric notion of stability. Seminal work of Gang Tian and then Donaldson clarified and generalized this idea. The resulting conjecture—that a Fano manifold admits a Kähler-Einstein metric if and only if it is K-stable—became one of the most active topics in geometry.
-
-Chen, Donaldson, and Sun announced a complete solution of the conjecture for Fano manifolds in International Mathematics Research Notices in 2014, and full proofs followed in Kähler-Einstein metrics on Fano manifolds. I: Approximation of metrics with cone singularities, Kähler-Einstein metrics on Fano manifolds. II: Limits with cone angle less than $2\pi$, and Kähler-Einstein metrics on Fano manifolds. III: Limits as cone angle approaches $2\pi$ and completion of the main proof, all published in 2015 in the Journal of the AMS.
-
-As one nominator put it, This is perhaps the biggest breakthrough in differential geometry since Perelman’s work on the Poincaré conjecture. It is certainly the biggest result in Kähler geometry since Yau’s solution of the Calabi conjecture 35 years earlier. It is already having a huge impact that will only grow with time.
+  As one nominator put it, This is perhaps the biggest breakthrough in differential geometry since Perelman’s work on the Poincaré conjecture. It is certainly the biggest result in Kähler geometry since Yau’s solution of the Calabi conjecture 35 years earlier. It is already having a huge impact that will only grow with time.
 
  &emsp;&emsp;**[新闻链接](https://www.ams.org/news?news_id=4705)**
 
