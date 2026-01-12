@@ -20,7 +20,7 @@ author_profile: true
 
   一位提名者给予如此评价：“这绝对是丘成桐解决卡拉比猜想后的三十五年里凯勒几何中最重要的结果，甚或是自佩雷尔曼解决庞加莱猜想以来微分几何领域里最大的突破。这一成就已经产生了巨大的影响，其重要性会随着时间的推移而越发彰显。”
 
- **[新闻链接](https://www.ams.org/news?news_id=4705)**
+ &emsp;&emsp;**[新闻链接](https://www.ams.org/news?news_id=4705)**
 
   
 - **[Professor Xiuxiong Chen Named 2019 Simons Investigator](https://en.igp.ustc.edu.cn/2021/1217/c29567a539411/page.htm)**
