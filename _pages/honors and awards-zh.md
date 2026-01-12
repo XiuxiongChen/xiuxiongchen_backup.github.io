@@ -18,7 +18,7 @@ author_profile: true
 - **[成果入选中国十大科技进展新闻](https://www.cas.cn/cm/202101/t20210121_4775288.shtml)**
   
 ### &emsp;2019年
-- **奥斯瓦尔德·维布伦几何学奖](https://www.ams.org/journals/notices/201904/rnoti-p610.pdf)**
+- **[奥斯瓦尔德·维布伦几何学奖](https://www.ams.org/journals/notices/201904/rnoti-p610.pdf)**
 - **[西蒙斯学者奖](https://www.simonsfoundation.org/mathematics-physical-sciences/simons-investigators/simons-investigators-awardees/)**
 
 ### &emsp;2015年
