@@ -2,11 +2,17 @@
 layout: single
 author_profile: true
 permalink: /zh/
-title: "首页"
+title: "关于我"
 lang: zh
 ---
 
 
 
-- [关于我](/zh/about/)
+中国科学技术大学 几何与物理研究中心
+
+中国科学技术大学 数学科学学院
+
+中国 安徽 合肥市金寨路96号 230026
+
+邮箱: xxchen@ustc.edu.cn
 
