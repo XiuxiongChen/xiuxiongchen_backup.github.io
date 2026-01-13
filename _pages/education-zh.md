@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "教育经历"
+title: "教育背景"
 permalink: /zh/education/
 lang: zh
 author_profile: true
