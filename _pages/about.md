@@ -11,7 +11,7 @@ redirect_from:
 
 
 <p align="center">
-  <img src="/images/profile.jpg" alt="Profile photo" width="200">
+  <img src="/images/xiuxiongchen.png" alt="Profile photo" width="200">
 </p>
 
 
