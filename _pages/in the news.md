@@ -25,24 +25,24 @@ redirect_from:
 
 - ## Professor Xiuxiong Chen Named 2019 Simons Investigator
 
-  陈秀雄教授是复几何领域最具影响力的数学家之一，西蒙斯学者奖是他继维布伦奖之后所取得的又一重要奖项。他与其合作者获得若干重大突破，进而解决了多个著名猜想。“他与唐纳森和孙崧合作证明了法诺流形上的稳定性猜想；与王兵合作解决了凯勒里奇流中的哈密尔顿-田猜想；与程经睿合作，在标量曲率满足一定条件下，开创性地给出了凯勒度量势函数的先验估计，并由此证明了著名的增长性猜想和唐纳森测地线稳定性猜想”。陈秀雄教授的工作在其它数学分支也产生了深远影响。
+  Professor Chen works in the field of differential geometry which investigates relations among various structures on shaped spaces. The world that we are experiencing is of three dimensional and is called the Euclidean space. On this space, there is an algebraic structure which allows us to combine two forces; a geometric structure which allows us to quantify the curvedness of a surface, also known as curvature; and its topological structure is used to distinguish a sphere from a torus. The similar, if more complicated, structures also exist on higher dimensional spaces of a more general nature. Although we cannot visualize these spaces, called manifolds, we can study them and analyze the relations among various structures on them with advanced mathematics. Professor Chen addresses these challenging questions and has transformed our understanding of these manifolds.
 
-  西蒙斯学者奖（Simons Investigators）由西蒙斯基金会（Simons Foundation）设立，后者由詹姆斯•西蒙斯及其妻子玛里琳于1994年成立，专门为教育、卫生、自然科学研究领域提供资助。
+  Simons Investigators receive one hundred thousand dollars per year from the foundation, enabling them to undertake the long-term study of fundamental questions.  As with the MacArthur Foundation “genius awards,” the awardees are unaware ahead of time of their being considered for the award and the prize money comes with no strings attached. A Simons Investigator is appointed for an initial period of five years, with renewal for an additional five years, contingent upon evaluation of the Investigator’s scientific impact. 
 
-  西蒙斯基金会每年从来自美国、加拿大、英国和爱尔兰的科研机构所提名的候选人中评选出西蒙斯学者。该奖旨在奖励数学、物理、天体物理和计算机科学领域的杰出研究者。其中每年奖励三到四名数学家，他们“处于创造的巅峰，引领研究领域，开创全新方向，在培养提携青年学者方面卓有成效”。
+  The Simons Foundation supports fundamental research through several funding programs. Each year since 2012, the Simons Foundation awards three to four outstanding mathematicians in their most productive years, when they are establishing creative new research directions, providing leadership to the field and effectively mentoring junior scientists. Of the 33 recipients so far, four have received the Breakthrough Prize, six are Fields medalists and three the MacArthur fellows.  
 
-  每位西蒙斯学者获得为期5年、总额50万美元的研究资金，并依据获奖者的研究影响力，可续延5年。和麦克阿瑟“天才奖“一样，获奖者可自由支配资金以进行长期的原创性工作和解决数学的根本性问题。2012年至今，共有33位数学家获得西蒙斯学者奖，其中包括6位菲尔兹奖得主和4位科学突破奖得主。陈秀雄教授是继陶哲轩和姚鸿泽后第三位获得西蒙斯学者奖的华人数学家。
+  The award citation recognizes Professor Xiuxiong Chen as a leading figure in complex geometry with fundamental contributions to the field.  He and his collaborators have made major breakthroughs and finally settled several long-standing problems.  With S. K. Donaldson and S. Sun, Chen proved the stability conjecture (which goes back to Yau) on Fano Kaehler manifolds.  With B. Wang, Chen confirmed the Hamilton-Tian conjecture on the Kaehler-Rcci flow on Fano manifolds. With J.R. Cheng, Chen found a groundbreaking a priori estimate for Kaehler metrics, under assumptions on the scalar curvature, which involved a fourth-order differential equation, and  verified the fundamental Donaldson geodesic stability conjecture and the properness conjecture.
 
  &emsp;&emsp;**[新闻链接](https://igp.ustc.edu.cn/2021/1110/c29243a532055/page.htm)**
 
 
-- ## 陈秀雄教授荣获纽约州立大学首席教授头衔
+- ## Professor Xiuxiong Chen honored with Distinguished Professorship
 
-  中国科学技术大学几何与物理研究中心创始主任陈秀雄教授于11月被纽约州立大学董事会授予首席教授头衔。
+  IGP Founding Director Xiuxiong Chen has been honored with the rank of Distinguished Professor by the State University of New York Board of Trustees in November. 
 
-  获得纽约州立大学首席教授职位的学者凭着开拓创新的研究成果和率先垂范的学术风采在其研究领域内享有卓越的国际声誉。这是纽约州立大学备受尊崇的最高学术头衔。首席教授是该大学系统内全体师生的楷模，他们成就之彪焕可望提升该校各个领域学者的学术标准。
-
- &emsp;&emsp;**[新闻链接](https://igp.ustc.edu.cn/2021/1110/c29243a532054/page.htm)**
+  The distinguished professorship at SUNY is conferred upon faculty having achieved international prominence and a distinguished reputation within the individual's chosen field through groundbreaking research and exemplary scholarship. This is SUNY's highest and most revered academic ranking of distinction. The honorees of the rank are role models for students and faculty on all SUNY campuses and their work are of such character that it has the potential to elevate the standards of scholarship of colleagues both within and beyond their academic fields.
+  
+ &emsp;&emsp;**[新闻链接](https://en.igp.ustc.edu.cn/2021/1217/c29567a539410/page.htm)**
 
 
 - ## 陈秀雄教授/王兵教授荣获中国科学技术大学2020年度杰出研究校长奖表彰
