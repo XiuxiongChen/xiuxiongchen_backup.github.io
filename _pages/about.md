@@ -8,6 +8,13 @@ redirect_from:
 ---
 
 ---
+
+
+<p align="center">
+  <img src="/images/profile.jpg" alt="Profile photo" width="200">
+</p>
+
+
 Institute of Geometry and Physics, University of Science and Technology of China
 
 School of Mathematical Sciences, University of Science and Technology of China
