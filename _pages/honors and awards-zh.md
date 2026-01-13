@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "获奖荣誉"
+title: "荣誉与奖励"
 permalink: /zh/honors and awards/
 lang: zh
 author_profile: true
