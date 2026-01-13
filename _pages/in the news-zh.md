@@ -45,7 +45,7 @@ author_profile: true
  &emsp;&emsp;**[新闻链接](https://igp.ustc.edu.cn/2021/1110/c29243a532054/page.htm)**
 
 
-  - ## 陈秀雄教授/王兵教授在里奇流研究中取得重大突破
+- ## 陈秀雄教授/王兵教授在里奇流研究中取得重大突破
   近日，中国科大几何与物理研究中心创始主任陈秀雄教授与王兵教授关于高维凯勒里奇流收敛性的论文“Space of Ricci flows (II)—Part B: Weak compactness of the flows”于国际知名数学期刊《微分几何学杂志》（Journal of differential geometry）发表。 
   
   陈秀雄与王兵的论文率先解决了哈密尔顿-田猜想(Hamilton-Tian conjecture)和偏零阶估计猜想（Partial C0-conjecture)。这些均为几何分析领域二十余年悬而未决的核心猜想。该论文篇幅超过120页，从投稿到正式发表耗时六年。论文的审稿人评论“该文是几何分析领域内的重大进展，毫无疑问将激发诸多相关工作”。菲尔兹奖得主唐纳森也多次在媒体和文章中称赞此文为“几何领域近年来的重大突破”。
