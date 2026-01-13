@@ -42,6 +42,16 @@ redirect_from:
  &emsp;&emsp;**[新闻链接](https://en.igp.ustc.edu.cn/2021/1217/c29567a539410/page.htm)**
 
 
+ - ## Professors Xiuxiong Chen and Bing Wang Achieve Major Breakthroughs in Ricci Flow Research
+  Recently, a paper entitled “Space of Ricci Flows (II)—Part B: Weak Compactness of the Flows” by Professor Xiuxiong Chen, Founding Director of the Center for Geometry and Physics at the University of Science and Technology of China, and Professor Bing Wang has been published in the internationally renowned mathematics journal, the Journal of Differential Geometry.
+
+  In this work, Chen and Wang were the first to resolve the Hamilton–Tian Conjecture and the Partial 𝐶0-conjecture, two central open problems in geometric analysis that had remained unsolved for more than two decades. The paper exceeds 120 pages in length and underwent a six-year review and publication process from submission to final acceptance.
+
+  The referees commented that “this paper represents a major advance in geometric analysis and will undoubtedly stimulate a great deal of related research.” Fields Medalist Simon Donaldson has also repeatedly praised the work in the media and in his writings, describing it as “one of the most significant breakthroughs in geometry in recent years.”
+  
+ &emsp;&emsp;**[新闻链接](https://igp.ustc.edu.cn/2021/1110/c29243a532052/page.htm)**
+
+
 - ## Professor Xiuxiong Chen / Professor Bing Wang were honored with the 2020 Outstanding Research President Award of the University of Science and Technology of China.
   On the afternoon of January 16, 2021, the 2020 Annual Meeting of the 12th Congress of the Communist Party of China at the University of Science and Technology of China (USTC) and the Second Session of the 10th USTC Faculty and Staff Congress concluded at the Auditorium of the East Campus.
 
@@ -61,42 +71,26 @@ redirect_from:
 
 
 - ## The Achievement Was Selected as one of the Top 10 Scientific and Technological Progress News in China (2020)
-  2021年1月20日，由中国科学院、中国工程院主办，中国科学院院士和中国工程院院士投票评选的2020年中国、世界十大科技进展新闻在京揭晓。我中心陈秀雄教授及王兵教授的“科学家攻克20余年悬而未决的几何难题”入选2020年度“中国十大科技进展新闻”。该成果同时入选2020年度国内十大科技新闻。
+  On January 20, 2021, the Top Ten Science and Technology Advances in China and the World for 2020—jointly sponsored by the Chinese Academy of Sciences (CAS) and the Chinese Academy of Engineering (CAE) and selected through voting by CAS and CAE academicians—were officially announced in Beijing.The achievement titled “Scientists Solve Long-Standing Geometric Problems Unresolved for More Than 20 Years” by Professors Xiuxiong Chen and Bing Wang of our center was selected as one of the Top Ten Science and Technology Advances in China for 2020. This achievement was also included among the Top Ten Domestic Science and Technology News of 2020.
 
-  中国科学技术大学教授陈秀雄、王兵发表的关于高维凯勒里奇流收敛性的论文，率先攻克了哈密尔顿—田猜想和偏零阶估计猜想——这些均为几何分析领域20余年来悬而未决的核心猜想。相关成果于11月初发表在《微分几何学杂志》。该论文从投稿到正式发表耗时6年，引进了众多新思想和新方法，对几何分析，尤其是里奇流的研究产生了深远的影响。
-
-
-
-On **January 20, 2021**, the **Top Ten Science and Technology Advances in China and the World for 2020**—jointly sponsored by the **Chinese Academy of Sciences (CAS)** and the **Chinese Academy of Engineering (CAE)** and selected through voting by CAS and CAE academicians—were officially announced in Beijing.
-The achievement titled *“Scientists Solve Long-Standing Geometric Problems Unresolved for More Than 20 Years”* by **Professors Xiuxiong Chen and Bing Wang** of our center was selected as one of the **Top Ten Science and Technology Advances in China for 2020**. This achievement was also included among the **Top Ten Domestic Science and Technology News of 2020**.
-
-The paper on the **convergence of the high-dimensional Kähler–Ricci flow**, published by **Professors Xiuxiong Chen and Bing Wang** of the University of Science and Technology of China, successfully resolved the **Hamilton–Tian Conjecture** and the **Partial (C^0) Conjecture**, two core open problems in **geometric analysis** that had remained unsolved for more than two decades. The related results were published in **early November** in the *Journal of Differential Geometry*.
-The paper underwent a **six-year review and publication process**, during which it introduced numerous new ideas and methods, and has had a **far-reaching impact** on geometric analysis, particularly on the study of **Ricci flow**.
-
-
-
+  The paper on the convergence of the high-dimensional Kähler–Ricci flow, published by Professors Xiuxiong Chen and Bing Wang of the University of Science and Technology of China, successfully resolved the Hamilton–Tian Conjecture and the Partial C0-conjecture, two core open problems in geometric analysis that had remained unsolved for more than two decades. The related results were published in early November in the Journal of Differential Geometry. The paper underwent a six-year review and publication process, during which it introduced numerous new ideas and methods, and has had a far-reaching impact on geometric analysis, particularly on the study of Ricci flow.
 
  &emsp;&emsp;**[新闻链接](https://english.cas.cn/newsroom/cas_media/202101/t20210122_262120_1.shtml)**
 
 
-- ## 陈秀雄教授在偏微分方程和复几何领域取得重要“里程碑式结果”
-  中国科学技术大学几何与物理研究中心主任陈秀雄教授在偏微分方程和复几何领域取得重要“里程碑式结果”。他与合作者程经睿完成的关于一类四阶完全非线性椭圆方程的先验估计和凯勒流形上有关卡拉比极值度量若干著名猜想的两篇论文先后发表在国际著名杂志《美国数学会杂志》（Journal of American Mathematical Society）上。论文解决了若干有关凯勒流形上常标>量曲率度量和卡拉比极值度量的著名问题，包括长期未决的强制性猜想和测地稳定性猜想，将对几何和偏微分方程的研究产生重要的影响。同行专家评论，上述工作“属于凯勒几何里最重要结果中的上乘之作”、“必将成为几何和分析两个领域经典”。 
+- ## Professor Xiuxiong Chen Achieves Milestone Results in Partial Differential Equations and Complex Geometry
+  Professor Xiuxiong Chen, Director of the Institute of Geometry and Physics at the University of Science and Technology of China, has achieved major milestone results in the fields of partial differential equations and complex geometry. Together with his collaborator Jingrui Cheng, he completed two papers on a priori estimates for a class of fully nonlinear fourth-order elliptic equations and on several well-known conjectures concerning Calabi extremal metrics on Kähler manifolds. These papers were successively published in the internationally renowned journal, the Journal of the American Mathematical Society.
+
+  The papers resolved a number of famous problems related to constant scalar curvature metrics and Calabi extremal metrics on Kähler manifolds, including the long-standing Properness Conjecture and the Geodesic Stability Conjecture. These breakthroughs are expected to have a significant impact on research in both geometry and partial differential equations. Leading experts in the field have commented that this body of work “ranks among the most important results in Kähler geometry” and “will undoubtedly become a classic in both geometry and analysis.”
 
  &emsp;&emsp;**[新闻链接](https://igp.ustc.edu.cn/2021/1110/c29243a532048/page.htm)**
 
 
-- ## 成果入选2021年国内十大科技新闻
-  12月26日，由科技日报社主办、部分两院院士和媒体人士共同评选出的2021年国内、国际十大科技新闻揭晓。我中心创始主任陈秀雄教授团队的“凯勒几何两大核心猜想被证明”成功入选2021年度国内十大科技新闻。陈秀雄教授与合作者程经睿完成关于一类四阶完全非线性椭圆方程的先验估计和凯勒流形上有关卡拉比极值度量若干著名猜想，解决了若干有关凯勒流形上常标量曲率度量和卡拉比极值度量的著名问题，包括长期未决的强制性猜想和测地稳定性猜想，在偏微分方程和复几何领域取得重要“里程碑式结果，将对几何和偏微分方程的研究产生重要的影响。
+- ## The Achievement Was Selected as One of the Top 10 Domestic Science and Technology News in China (2021)
+  On December 26, the Top Ten Domestic Science and Technology News of 2021, jointly selected by Science and Technology Daily in collaboration with a panel of academicians from the Chinese Academy of Sciences and the Chinese Academy of Engineering, as well as media professionals, were officially announced. The achievement titled “Two Core Conjectures in Kähler Geometry Proven” by the team led by Professor Xiuxiong Chen, Founding Director of our Center, was successfully selected as one of the Top Ten Domestic Science and Technology News of 2021.
+
+  Professor Xiuxiong Chen, together with his collaborator Jingrui Cheng, established a priori estimates for a class of fully nonlinear fourth-order elliptic equations and resolved several well-known conjectures concerning Calabi extremal metrics on Kähler manifolds. Their work solved a number of celebrated problems related to constant scalar curvature metrics and Calabi extremal metrics on Kähler manifolds, including the long-standing Properness Conjecture and the Geodesic Stability Conjecture. These achievements represent milestone results in the fields of partial differential equations and complex geometry, and are expected to have a significant impact on future research in geometry and partial differential equations.
 
  &emsp;&emsp;**[新闻链接](https://news.ustc.edu.cn/info/1055/77295.htm)**
 
 
-
-
-- **[Professor Xiuxiong Chen Named 2019 Simons Investigator](https://en.igp.ustc.edu.cn/2021/1217/c29567a539411/page.htm)**
-- **[Professor Xiuxiong Chen Awarded 2019 Oswald Veblen Prize](https://en.igp.ustc.edu.cn/2021/1217/c29567a539415/page.htm)**
-- **[Professor Xiuxiong Chen honored with Distinguished Professorship](https://en.igp.ustc.edu.cn/2021/1217/c29567a539410/page.htm)**
-- **[Outstanding Research Presidential Award, University of Science and Technology of China, 2020](https://news.ustc.edu.cn/info/1055/73961.htm)**
-- **[Selected as one of the Top 10 Domestic Science and Technology News in China (2020) for solving two core conjectures in differential geometry](https://news.ustc.edu.cn/info/1032/73686.htm)**
-- **[Selected as one of the Top 10 Scientific and Technological Progress News in China (2020) for solving two long-standing core conjectures in differential geometry](https://english.cas.cn/newsroom/cas_media/202101/t20210122_262120_1.shtml)**
-- **[Selected as one of the Top 10 Domestic Science and Technology News in China (2021) for resolving two core conjectures in Kähler geometry](https://news.ustc.edu.cn/info/1001/78041.htm)**
