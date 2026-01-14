@@ -14,7 +14,7 @@ redirect_from:
   <img src="/images/xiuxiongchen.png" alt="Profile photo" width="600">
 </p>
 
-## Xiuxiong Chen
+<h2 style="text-align: center;">Xiuxiong Chen</h2>
 
 &emsp;&emsp;Director, Institute of Geometry and Physics, University of Science and Technology of China
 
